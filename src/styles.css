@@ -1,4 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+
+
 body {
     background: radial-gradient(black 3px, transparent 4px),
       radial-gradient(black 3px, transparent 4px),
@@ -28,5 +30,4 @@ body {
   
   .container {
     margin-top: 10%;
-  }
-  
+  }  
