@@ -30,6 +30,11 @@ export class AppComponent implements OnInit {
       );
   }
 
+  get helper ()
+  {
+    return this.registrationForm.controls;
+  }
+
   onSubmit()
   {
     this.submitted = true;
